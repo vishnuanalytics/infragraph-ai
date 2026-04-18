@@ -8,7 +8,7 @@ import {
   PieChart, Pie, Cell, ResponsiveContainer
 } from "recharts";
 import StatCard from "../components/StatCard";
-import SeverityBadge from "../components/SeverityBadge";
+/*import SeverityBadge from "../components/SeverityBadge";*/
 import {
   fetchPlantSummary, fetchIncidents,
   fetchHighRiskAssets, fetchGraphStats
